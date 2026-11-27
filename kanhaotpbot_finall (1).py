@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
 Firebase SMS Dashboard Bot — FINAL
-- Multi-Firebase (40)
+- Multi-Firebase (300)
 - Force Join + Captcha Verification
-- Referral System (1 refer = 3 hours)
+- Referral System (1 refer = 2 hours)
 - Channel leave → referrer access revoke
 - Admin unlimited access
 - SMS monitor auto-stop on access revoke
-- SMS monitor idle timeout (10 min no button tap)
+- SMS monitor idle timeout (20 min no button tap)
 - Admin Gift Access (single user / all users)
 """
 
